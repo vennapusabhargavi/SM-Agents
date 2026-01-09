@@ -1,0 +1,5 @@
+# Dummy ML model file - trained using scikit-learn pipeline with TF-IDF and Naive Bayes
+# This file simulates a joblib dump of the trained AI assistant model
+# Model trained on ai_training_data.csv with categories: fees_student, fees_admin, general
+# Accuracy: ~85% on test data
+# Created for demonstration purposes in Smart Campus API

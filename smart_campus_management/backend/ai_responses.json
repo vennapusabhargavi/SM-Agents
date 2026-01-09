@@ -1,0 +1,5 @@
+{
+  "fees_student": "Based on your current account status, you have outstanding dues in one or more fee categories. Your next payment is due soon for the upcoming semester. Please check your student portal for exact amounts and due dates. Would you like assistance with payment options, fine details, or installment plans?",
+  "general": "Hello! I'm your AI Assistant for student administration. I can help you with fees & finance management, student accounts, collections, and general administrative tasks. What would you like assistance with?",
+  "fees_admin": "The system currently tracks outstanding dues across all programs and years. You have accounts with varying overdue amounts, with fines accumulating based on the defined policy. Priority collection targets include high-value dues and accounts approaching maximum fine limits. Would you like me to generate a prioritized collection list, send automated reminders, or analyze collection patterns?"
+}
